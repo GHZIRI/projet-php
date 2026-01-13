@@ -10,3 +10,4 @@ echo "Prix : " . $prix . "<br>";
 echo "Connecté : " . ($estConnecte ? "Oui" : "Non") . "<br>";
 
 var_dump($name);
+    
